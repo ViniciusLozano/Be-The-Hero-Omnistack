@@ -1,2 +1,2 @@
-# Be-The-Hero-Omnistack
+# Be The Hero Omnistack
  Somente front-end Be the Hero
